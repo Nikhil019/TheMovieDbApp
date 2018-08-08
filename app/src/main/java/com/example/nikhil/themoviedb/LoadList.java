@@ -31,9 +31,6 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-/**
- * Created by shubham on 7/23/2018.
- */
 
 public class LoadList {
     String type;
