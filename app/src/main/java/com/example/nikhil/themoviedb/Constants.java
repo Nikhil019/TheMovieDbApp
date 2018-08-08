@@ -1,9 +1,5 @@
 package com.example.nikhil.themoviedb;
 
-/**
- * Created by shubham on 7/21/2018.
- */
-
 public class Constants {
     public  static  final String TYPE="type";
     public  static  final String UPCOMING_MOVIES="up_coming";
